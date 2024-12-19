@@ -2,7 +2,7 @@
 
 **Candy Crush Snake** is a hybrid game that combines elements of the classic "Snake" game with a "Match-3" style candy board (inspired by Candy Crush). Make matches in the candy grid to spawn food for the snake, and control the snake to eat the food and grow!
 
-![Gameplay](Animation.gif)
+![Gameplay](Raylib.vcxproj\Animation.gif)
 
 
 ## Features
